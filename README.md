@@ -10,10 +10,6 @@
   <img src="https://img.shields.io/github/stars-of-user/dwiyansyahku?label=Total+Stars&style=flat-square&color=38bdf8" alt="Total Stars" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dwiyansyahku&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Profile Trophies" />
-</p>
-
 ---
 
 ### 🚀 About Me
@@ -70,19 +66,12 @@ Hello! I am a passionate **Software Developer** dedicated to building high-quali
 
 ### 📊 GitHub Statistics
 
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=dwiyansyahku&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=818cf8&text_color=cbd5e1" alt="Dwiyansyah's GitHub Stats" width="100%">
-    </td>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwiyansyahku&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=cbd5e1" alt="Top Languages" width="100%">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dwiyansyahku&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=818cf8&text_color=cbd5e1" alt="Dwiyansyah's GitHub Stats" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dwiyansyahku&theme=tokyonight&hide_border=true&background=0f172a&ring=38bdf8&fire=818cf8&currStreakNum=ffffff" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=dwiyansyahku&theme=tokyonight&hide_border=true&background=0f172a&ring=38bdf8&fire=818cf8&currStreakNum=ffffff" alt="GitHub Streak Stats" />
 </p>
 
 ---
@@ -90,7 +79,9 @@ Hello! I am a passionate **Software Developer** dedicated to building high-quali
 ### 👾 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dwiyansyahku/dwiyansyahku/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%">
+  <!-- DUMMY PREVIEW: Currently using a live preview snake so it displays immediately. -->
+  <!-- Once you run your "Generate Contribution Snake" GitHub Action workflow, you can replace 'Platane' with 'dwiyansyahku' below! -->
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%">
 </p>
 
 ---
