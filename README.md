@@ -1,22 +1,25 @@
-<p align="center">
-  <img src="profile_banner.png" alt="Dwiyansyah Oktavyudi Banner" width="100%">
-</p>
-
-<h1 align="center">Dwiyansyah Oktavyudi <img src="waving-hand.png" alt="Waving Hand" width="35" height="35" /></h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38bdf8&center=true&vCenter=true&width=450&lines=Software+Engineer;Full-stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dwiyansyahku&color=007ec6&label=Profile+views" alt="Profile Views" />
-  .
-  <img src="https://img.shields.io/github/followers/dwiyansyahku?style=social" alt="Followers" />
-  .
-  <img src="https://img.shields.io/badge/Stars-0-lightgrey?style=social&logo=github" alt="Stars" />
-  .
-  <img src="https://img.shields.io/badge/Location-Indonesia-0f172a?style=flat-square&labelColor=0f172a&color=38bdf8" alt="Location" />
-</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td valign="middle" width="75%">
+      <h1>Dwiyansyah Oktavyudi <img src="waving-hand.png" alt="Waving Hand" width="35" height="35" /></h1>
+      <p>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38bdf8&vCenter=true&width=450&lines=Software+Engineer;Full-stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+      </p>
+      <p>
+        <img src="https://komarev.com/ghpvc/?username=dwiyansyahku&color=007ec6&label=Profile+views" alt="Profile Views" />
+        &nbsp;
+        <img src="https://img.shields.io/github/followers/dwiyansyahku?style=social" alt="Followers" />
+        &nbsp;
+        <img src="https://img.shields.io/badge/Stars-0-lightgrey?style=social&logo=github" alt="Stars" />
+        &nbsp;
+        <img src="https://img.shields.io/badge/Location-Indonesia-0f172a?style=flat-square&labelColor=0f172a&color=38bdf8" alt="Location" />
+      </p>
+    </td>
+    <td valign="middle" width="25%" align="center">
+      <img src="hiasan/shelf-anim.gif" alt="Shelf Decor Animation" width="180" height="180" style="border-radius:12px">
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -35,7 +38,7 @@ Hello! I am a passionate **Software Developer** dedicated to building high-quali
 
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    <td valign="top" width="55%">
+    <td valign="top" width="58%">
       <p align="left">
         <!-- Languages -->
         <img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
@@ -70,8 +73,8 @@ Hello! I am a passionate **Software Developer** dedicated to building high-quali
         <img src="https://img.shields.io/badge/Postman-0f172a?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman">
       </p>
     </td>
-    <td valign="middle" width="45%" align="center">
-      <img src="hiasan/showcase-opt.gif" alt="Showcase Animation" width="100%">
+    <td valign="middle" width="42%" align="center">
+      <img src="hiasan/showcase-fit.gif" alt="Showcase Animation" width="100%">
     </td>
   </tr>
 </table>
