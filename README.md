@@ -6,8 +6,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dwiyansyahku&color=38bdf8&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/dwiyansyahku?label=Followers&style=flat-square&color=38bdf8" alt="Followers" />
-  <img src="https://img.shields.io/github/stars-of-user/dwiyansyahku?label=Total+Stars&style=flat-square&color=38bdf8" alt="Total Stars" />
+  <img src="https://img.shields.io/badge/Role-Software_Engineer-0f172a?style=flat-square&labelColor=0f172a&color=38bdf8" alt="Role" />
+  <img src="https://img.shields.io/badge/Location-Indonesia-0f172a?style=flat-square&labelColor=0f172a&color=38bdf8" alt="Location" />
 </p>
 
 ---
@@ -70,9 +70,11 @@ Hello! I am a passionate **Software Developer** dedicated to building high-quali
   <img src="https://github-readme-stats.vercel.app/api?username=dwiyansyahku&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=818cf8&text_color=cbd5e1" alt="Dwiyansyah's GitHub Stats" />
 </p>
 
+<!-- Uncomment this once you have daily commits on GitHub to display your streak stats:
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=dwiyansyahku&theme=tokyonight&hide_border=true&background=0f172a&ring=38bdf8&fire=818cf8&currStreakNum=ffffff" alt="GitHub Streak Stats" />
 </p>
+-->
 
 ---
 
