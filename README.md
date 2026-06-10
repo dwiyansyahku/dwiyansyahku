@@ -71,7 +71,7 @@ Hello! I am a passionate **Software Developer** dedicated to building high-quali
       </p>
     </td>
     <td valign="middle" width="45%" align="center">
-      <video src="showcase-video.mp4" width="100%" autoplay loop muted playsinline></video>
+      <img src="hiasan/showcase-opt.gif" alt="Showcase Animation" width="100%">
     </td>
   </tr>
 </table>
