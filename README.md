@@ -9,7 +9,7 @@
   .
   <img src="https://img.shields.io/github/followers/dwiyansyahku?style=social" alt="Followers" />
   .
-  <img src="https://img.shields.io/github/stars/dwiyansyahku/dwiyansyahku?style=social" alt="Stars" />
+  <img src="https://img.shields.io/badge/Stars-0-lightgrey?style=social&logo=github" alt="Stars" />
   .
   <img src="https://img.shields.io/badge/Location-Indonesia-0f172a?style=flat-square&labelColor=0f172a&color=38bdf8" alt="Location" />
 </p>
