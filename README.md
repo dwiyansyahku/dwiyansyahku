@@ -5,8 +5,12 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dwiyansyahku&color=38bdf8&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Role-Software_Engineer-0f172a?style=flat-square&labelColor=0f172a&color=38bdf8" alt="Role" />
+  <img src="https://komarev.com/ghpvc/?username=dwiyansyahku&color=007ec6&label=Profile+views" alt="Profile Views" />
+  .
+  <img src="https://img.shields.io/github/followers/dwiyansyahku?style=social" alt="Followers" />
+  .
+  <img src="https://img.shields.io/github/stars/dwiyansyahku/dwiyansyahku?style=social" alt="Stars" />
+  .
   <img src="https://img.shields.io/badge/Location-Indonesia-0f172a?style=flat-square&labelColor=0f172a&color=38bdf8" alt="Location" />
 </p>
 
@@ -102,6 +106,10 @@ Let's collaborate on building the future! Feel free to reach out to me through:
   </a>
   <a href="https://linkedin.com/in/dwiyansyah" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <!-- Catatan: Ganti url open.spotify.com di bawah ini dengan link lagu/playlist favorit Anda! -->
+  <a href="https://open.spotify.com" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
   </a>
 </p>
 
