@@ -78,20 +78,16 @@ Hello! I am a passionate **Software Developer** dedicated to building high-quali
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dwiyansyahku&theme=tokyonight&bg_color=0f172a&color=38bdf8&line=38bdf8&point=818cf8&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%" />
 </p>
 
-<!-- Uncomment this once you have daily commits on GitHub to display your streak stats:
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=dwiyansyahku&theme=tokyonight&hide_border=true&background=0f172a&ring=38bdf8&fire=818cf8&currStreakNum=ffffff" alt="GitHub Streak Stats" />
 </p>
--->
 
 ---
 
 ### 👾 Contribution Activity
 
 <p align="center">
-  <!-- DUMMY PREVIEW: Currently using a live preview snake so it displays immediately. -->
-  <!-- Once you run your "Generate Contribution Snake" GitHub Action workflow, you can replace 'Platane' with 'dwiyansyahku' below! -->
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%">
+  <img src="https://raw.githubusercontent.com/dwiyansyahku/dwiyansyahku/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%">
 </p>
 
 ---
