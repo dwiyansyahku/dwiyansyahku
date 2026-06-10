@@ -1,25 +1,22 @@
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td valign="middle" width="75%">
-      <h1>Dwiyansyah Oktavyudi <img src="waving-hand.png" alt="Waving Hand" width="35" height="35" /></h1>
-      <p>
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38bdf8&vCenter=true&width=450&lines=Software+Engineer;Full-stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
-      </p>
-      <p>
-        <img src="https://komarev.com/ghpvc/?username=dwiyansyahku&color=007ec6&label=Profile+views" alt="Profile Views" />
-        &nbsp;
-        <img src="https://img.shields.io/github/followers/dwiyansyahku?style=social" alt="Followers" />
-        &nbsp;
-        <img src="https://img.shields.io/badge/Stars-0-lightgrey?style=social&logo=github" alt="Stars" />
-        &nbsp;
-        <img src="https://img.shields.io/badge/Location-Indonesia-0f172a?style=flat-square&labelColor=0f172a&color=38bdf8" alt="Location" />
-      </p>
-    </td>
-    <td valign="middle" width="25%" align="center">
-      <img src="hiasan/shelf-anim.gif" alt="Shelf Decor Animation" width="180" height="180" style="border-radius:12px">
-    </td>
-  </tr>
-</table>
+<img align="right" src="hiasan/shelf-anim.gif" width="130" height="130">
+
+<h1>Dwiyansyah Oktavyudi <img src="waving-hand.png" alt="Waving Hand" width="35" height="35" /></h1>
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38bdf8&vCenter=true&width=450&lines=Software+Engineer;Full-stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=dwiyansyahku&color=007ec6&label=Profile+views" alt="Profile Views" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/dwiyansyahku?style=social" alt="Followers" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Stars-0-lightgrey?style=social&logo=github" alt="Stars" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Location-Indonesia-0f172a?style=flat-square&labelColor=0f172a&color=38bdf8" alt="Location" />
+</p>
+
+<br clear="right">
 
 ---
 
@@ -36,48 +33,46 @@ Hello! I am a passionate **Software Developer** dedicated to building high-quali
 
 ### 🛠️ Tech Stack & Tools
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td valign="top" width="58%">
-      <p align="left">
-        <!-- Languages -->
-        <img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-        <img src="https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript">
-        <img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
-        <img src="https://img.shields.io/badge/PHP-0f172a?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP">
-        <img src="https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5">
-        <img src="https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3">
-      </p>
-      <p align="left">
-        <!-- Frontend & Frameworks -->
-        <img src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-        <img src="https://img.shields.io/badge/Next.js-0f172a?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" alt="Next.js">
-        <img src="https://img.shields.io/badge/Vue.js-0f172a?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js">
-        <img src="https://img.shields.io/badge/TailwindCSS-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="TailwindCSS">
-      </p>
-      <p align="left">
-        <!-- Backend & Database -->
-        <img src="https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js">
-        <img src="https://img.shields.io/badge/Express-0f172a?style=for-the-badge&logo=express&logoColor=ffffff" alt="Express">
-        <img src="https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL">
-        <img src="https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL">
-        <img src="https://img.shields.io/badge/MongoDB-0f172a?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB">
-        <img src="https://img.shields.io/badge/Firebase-0f172a?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase">
-      </p>
-      <p align="left">
-        <!-- Tools & Systems -->
-        <img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F05032" alt="Git">
-        <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub">
-        <img src="https://img.shields.io/badge/VS_Code-0f172a?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="VS Code">
-        <img src="https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker">
-        <img src="https://img.shields.io/badge/Postman-0f172a?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman">
-      </p>
-    </td>
-    <td valign="middle" width="42%" align="center">
-      <img src="hiasan/showcase-fit.gif" alt="Showcase Animation" width="100%">
-    </td>
-  </tr>
-</table>
+<img align="right" src="hiasan/showcase-sq.gif" alt="Showcase Animation" width="220" height="220">
+
+<p>
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
+  <img src="https://img.shields.io/badge/PHP-0f172a?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP">
+  <img src="https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3">
+</p>
+
+<p>
+  <!-- Frontend & Frameworks -->
+  <img src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-0f172a?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" alt="Next.js">
+  <img src="https://img.shields.io/badge/Vue.js-0f172a?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js">
+  <img src="https://img.shields.io/badge/TailwindCSS-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="TailwindCSS">
+</p>
+
+<p>
+  <!-- Backend & Database -->
+  <img src="https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express-0f172a?style=for-the-badge&logo=express&logoColor=ffffff" alt="Express">
+  <img src="https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MongoDB-0f172a?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Firebase-0f172a?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase">
+</p>
+
+<p>
+  <!-- Tools & Systems -->
+  <img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F05032" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub">
+  <img src="https://img.shields.io/badge/VS_Code-0f172a?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="VS Code">
+  <img src="https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker">
+  <img src="https://img.shields.io/badge/Postman-0f172a?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman">
+</p>
+
+<br clear="right">
 
 ---
 
