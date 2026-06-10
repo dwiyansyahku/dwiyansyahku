@@ -1,12 +1,14 @@
-<img align="right" src="hiasan/shelf-anim.gif" width="130" height="130">
-
-<h1>Dwiyansyah Oktavyudi <img src="waving-hand.png" alt="Waving Hand" width="35" height="35" /></h1>
-
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38bdf8&vCenter=true&width=450&lines=Software+Engineer;Full-stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+<p align="center">
+  <img src="hiasan/shelf-anim.gif" width="130" height="130">
 </p>
 
-<p>
+<h1 align="center">Dwiyansyah Oktavyudi <img src="waving-hand.png" alt="Waving Hand" width="35" height="35" /></h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38bdf8&center=true&vCenter=true&width=450&lines=Software+Engineer;Full-stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=dwiyansyahku&color=007ec6&label=Profile+views" alt="Profile Views" />
   &nbsp;
   <img src="https://img.shields.io/github/followers/dwiyansyahku?style=social" alt="Followers" />
@@ -15,8 +17,6 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Location-Indonesia-0f172a?style=flat-square&labelColor=0f172a&color=38bdf8" alt="Location" />
 </p>
-
-<br clear="right">
 
 ---
 
