@@ -1,16 +1,17 @@
-<p align="center">
-  <img src="profile_banner.png" alt="Dwiyansyah Oktavyudi Banner" width="100%">
-</p>
-
-<h1 align="center">Hi there, I'm Dwiyansyah Oktavyudi! 👋</h1>
+<h1 align="center">Dwiyansyah Oktavyudi 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38bdf8&center=true&vCenter=true&width=450&lines=Software+Engineer;Full-stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/dwiyansyahku"><img src="https://img.shields.io/badge/Role-Software_Engineer-0f172a?style=for-the-badge" alt="Role"></a>
-  <a href="mailto:dwiyansyah969@gmail.com"><img src="https://img.shields.io/badge/Contact-Email_Me-0f172a?style=for-the-badge&logo=gmail&logoColor=ea4335" alt="Email"></a>
+  <img src="https://komarev.com/ghpvc/?username=dwiyansyahku&color=38bdf8&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/dwiyansyahku?label=Followers&style=flat-square&color=38bdf8" alt="Followers" />
+  <img src="https://img.shields.io/github/stars-of-user/dwiyansyahku?label=Total+Stars&style=flat-square&color=38bdf8" alt="Total Stars" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dwiyansyahku&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Profile Trophies" />
 </p>
 
 ---
@@ -79,6 +80,10 @@ Hello! I am a passionate **Software Developer** dedicated to building high-quali
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dwiyansyahku&theme=tokyonight&hide_border=true&background=0f172a&ring=38bdf8&fire=818cf8&currStreakNum=ffffff" alt="GitHub Streak Stats" />
+</p>
 
 ---
 
