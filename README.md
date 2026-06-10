@@ -2,27 +2,31 @@
   <img src="profile_banner.png" alt="Dwiyansyah Oktavyudi Banner" width="100%">
 </p>
 
-<h1 align="center">Halo, saya Dwiyansyah Oktavyudi! 👋</h1>
+<h1 align="center">Hi there, I'm Dwiyansyah Oktavyudi! 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38bdf8&center=true&vCenter=true&width=450&lines=Software+Engineer;Full-stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://github.com/dwiyansyahku"><img src="https://img.shields.io/badge/Role-Software_Engineer-0f172a?style=for-the-badge" alt="Role"></a>
-  <a href="mailto:dwiyanstar@gmail.com"><img src="https://img.shields.io/badge/Contact-Email_Me-0f172a?style=for-the-badge&logo=gmail&logoColor=ea4335" alt="Email"></a>
+  <a href="mailto:dwiyansyah969@gmail.com"><img src="https://img.shields.io/badge/Contact-Email_Me-0f172a?style=for-the-badge&logo=gmail&logoColor=ea4335" alt="Email"></a>
 </p>
 
 ---
 
-### 🚀 Tentang Saya
+### 🚀 About Me
 
-Halo! Saya adalah seorang **Software Developer** yang berdedikasi untuk membangun aplikasi web yang berkualitas, efisien, dan berorientasi pada pengguna. Saya senang mengeksplorasi teknologi baru dan menciptakan solusi elegan untuk masalah yang kompleks.
+Hello! I am a passionate **Software Developer** dedicated to building high-quality, efficient, and user-centric web applications. I love exploring new technologies and crafting elegant solutions to complex problems.
 
-- 🔭 **Proyek Saat Ini**: Sedang mengembangkan proyek web modern & mengasah keahlian software engineering.
-- 🌱 **Sedang Mempelajari**: Arsitektur backend modern, optimasi performa web, dan system design.
-- 👯 **Kolaborasi**: Terbuka untuk berkontribusi pada proyek open-source dan proyek web yang menarik.
-- ⚡ **Prinsip**: Saya percaya bahwa kode yang bersih bagaikan seni – harus sederhana, mudah dibaca, dan efisien.
+- 🔭 **Current Focus**: Developing modern web projects & sharpening software engineering principles.
+- 🌱 **Currently Learning**: Advanced backend architectures, system design, and web performance optimization.
+- 👯 **Collaboration**: Open to contributing to interesting open-source and web development projects.
+- ⚡ **Philosophy**: I believe clean code is like art – it should be simple, readable, and highly efficient.
 
 ---
 
-### 🛠️ Teknologi & Tools
+### 🛠️ Tech Stack & Tools
 
 <p align="left">
   <!-- Languages -->
@@ -63,38 +67,42 @@ Halo! Saya adalah seorang **Software Developer** yang berdedikasi untuk membangu
 
 ---
 
-### 📊 Statistik GitHub
+### 📊 GitHub Statistics
 
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=dwiyansyahku&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=818cf8&text_color=cbd5e1" alt="Statistik GitHub Dwiyansyah" width="100%">
+      <img src="https://github-readme-stats.vercel.app/api?username=dwiyansyahku&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=818cf8&text_color=cbd5e1" alt="Dwiyansyah's GitHub Stats" width="100%">
     </td>
     <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwiyansyahku&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=cbd5e1" alt="Bahasa Pemrograman Teratas" width="100%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwiyansyahku&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=cbd5e1" alt="Top Languages" width="100%">
     </td>
   </tr>
 </table>
 
 ---
 
-### 🤝 Hubungi Saya
-
-Mari terhubung dan berkolaborasi! Anda dapat menghubungi saya melalui media berikut:
+### 👾 Contribution Activity
 
 <p align="center">
-  <a href="mailto:dwiyanstar@gmail.com">
+  <img src="https://raw.githubusercontent.com/dwiyansyahku/dwiyansyahku/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%">
+</p>
+
+---
+
+### 🤝 Let's Connect
+
+Let's collaborate on building the future! Feel free to reach out to me through:
+
+<p align="center">
+  <a href="mailto:dwiyansyah969@gmail.com">
     <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=ea4335" alt="Email">
   </a>
-  <!-- Catatan: Silakan ganti link linkedin & instagram berikut jika username Anda berbeda -->
-  <a href="https://linkedin.com/in/dwiyansyahku" target="_blank">
+  <a href="https://linkedin.com/in/dwiyansyah" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn">
-  </a>
-  <a href="https://instagram.com/dwiyansyahku" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-0f172a?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram">
   </a>
 </p>
 
 <p align="center">
-  <sub><i>Dibuat dengan ❤️ oleh Dwiyansyah Oktavyudi.</i></sub>
+  <sub><i>Crafted with ❤️ by Dwiyansyah Oktavyudi.</i></sub>
 </p>
