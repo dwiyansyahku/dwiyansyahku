@@ -1,4 +1,4 @@
-<h1 align="center">Dwiyansyah Oktavyudi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.gif" alt="Waving Hand" width="35" height="35" style="vertical-align: middle;" /></h1>
+<h1 align="center">Dwiyansyah Oktavyudi <img src="waving-hand.png" alt="Waving Hand" width="35" height="35" /></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38bdf8&center=true&vCenter=true&width=450&lines=Software+Engineer;Full-stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
@@ -70,6 +70,10 @@ Hello! I am a passionate **Software Developer** dedicated to building high-quali
   <img src="https://github-readme-stats.vercel.app/api?username=dwiyansyahku&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=818cf8&text_color=cbd5e1" alt="Dwiyansyah's GitHub Stats" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dwiyansyahku&theme=tokyonight&bg_color=0f172a&color=38bdf8&line=38bdf8&point=818cf8&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%" />
+</p>
+
 <!-- Uncomment this once you have daily commits on GitHub to display your streak stats:
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=dwiyansyahku&theme=tokyonight&hide_border=true&background=0f172a&ring=38bdf8&fire=818cf8&currStreakNum=ffffff" alt="GitHub Streak Stats" />
@@ -88,16 +92,16 @@ Hello! I am a passionate **Software Developer** dedicated to building high-quali
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.gif" alt="Handshake" width="35" height="35" style="vertical-align: middle;" /> Let's Connect
+### <img src="handshake.png" alt="Handshake" width="35" height="35" /> Let's Connect
 
 Let's collaborate on building the future! Feel free to reach out to me through:
 
 <p align="center">
   <a href="mailto:dwiyansyah969@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=ea4335" alt="Email">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://linkedin.com/in/dwiyansyah" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
