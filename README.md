@@ -1,16 +1,100 @@
-## Hi there 👋
+<p align="center">
+  <img src="profile_banner.png" alt="Dwiyansyah Oktavyudi Banner" width="100%">
+</p>
 
-<!--
-**dwiyansyahku/dwiyansyahku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Halo, saya Dwiyansyah Oktavyudi! 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/dwiyansyahku"><img src="https://img.shields.io/badge/Role-Software_Engineer-0f172a?style=for-the-badge" alt="Role"></a>
+  <a href="mailto:dwiyanstar@gmail.com"><img src="https://img.shields.io/badge/Contact-Email_Me-0f172a?style=for-the-badge&logo=gmail&logoColor=ea4335" alt="Email"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Tentang Saya
+
+Halo! Saya adalah seorang **Software Developer** yang berdedikasi untuk membangun aplikasi web yang berkualitas, efisien, dan berorientasi pada pengguna. Saya senang mengeksplorasi teknologi baru dan menciptakan solusi elegan untuk masalah yang kompleks.
+
+- 🔭 **Proyek Saat Ini**: Sedang mengembangkan proyek web modern & mengasah keahlian software engineering.
+- 🌱 **Sedang Mempelajari**: Arsitektur backend modern, optimasi performa web, dan system design.
+- 👯 **Kolaborasi**: Terbuka untuk berkontribusi pada proyek open-source dan proyek web yang menarik.
+- ⚡ **Prinsip**: Saya percaya bahwa kode yang bersih bagaikan seni – harus sederhana, mudah dibaca, dan efisien.
+
+---
+
+### 🛠️ Teknologi & Tools
+
+<p align="left">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
+  <img src="https://img.shields.io/badge/PHP-0f172a?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP">
+  <img src="https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3">
+</p>
+
+<p align="left">
+  <!-- Frontend & Frameworks -->
+  <img src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-0f172a?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" alt="Next.js">
+  <img src="https://img.shields.io/badge/Vue.js-0f172a?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js">
+  <img src="https://img.shields.io/badge/TailwindCSS-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="TailwindCSS">
+</p>
+
+<p align="left">
+  <!-- Backend & Database -->
+  <img src="https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express-0f172a?style=for-the-badge&logo=express&logoColor=ffffff" alt="Express">
+  <img src="https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MongoDB-0f172a?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Firebase-0f172a?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase">
+</p>
+
+<p align="left">
+  <!-- Tools & Systems -->
+  <img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F05032" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub">
+  <img src="https://img.shields.io/badge/VS_Code-0f172a?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="VS Code">
+  <img src="https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker">
+  <img src="https://img.shields.io/badge/Postman-0f172a?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman">
+</p>
+
+---
+
+### 📊 Statistik GitHub
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=dwiyansyahku&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=818cf8&text_color=cbd5e1" alt="Statistik GitHub Dwiyansyah" width="100%">
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwiyansyahku&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=cbd5e1" alt="Bahasa Pemrograman Teratas" width="100%">
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🤝 Hubungi Saya
+
+Mari terhubung dan berkolaborasi! Anda dapat menghubungi saya melalui media berikut:
+
+<p align="center">
+  <a href="mailto:dwiyanstar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=ea4335" alt="Email">
+  </a>
+  <!-- Catatan: Silakan ganti link linkedin & instagram berikut jika username Anda berbeda -->
+  <a href="https://linkedin.com/in/dwiyansyahku" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn">
+  </a>
+  <a href="https://instagram.com/dwiyansyahku" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-0f172a?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram">
+  </a>
+</p>
+
+<p align="center">
+  <sub><i>Dibuat dengan ❤️ oleh Dwiyansyah Oktavyudi.</i></sub>
+</p>
