@@ -121,7 +121,7 @@ Let's collaborate on building the future! Feel free to reach out to me through:
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <!-- Catatan: Ganti url open.spotify.com di bawah ini dengan link lagu/playlist favorit Anda! -->
-  <a href="https://open.spotify.com/user/31mu6h7cfcvm2ucjgxpgafzlhtqq?si=a5ab5cc3d3234a32" target="_blank">
+  <a href="https://open.spotify.com/user/31mu6h7cfcvm2ucjgxpgafzlhtqq" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
   </a>
 </p>
