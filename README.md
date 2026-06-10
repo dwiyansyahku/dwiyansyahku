@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="profile_banner.png" alt="Dwiyansyah Oktavyudi Banner" width="100%">
+</p>
+
 <h1 align="center">Dwiyansyah Oktavyudi <img src="waving-hand.png" alt="Waving Hand" width="35" height="35" /></h1>
 
 <p align="center">
@@ -67,7 +71,7 @@ Hello! I am a passionate **Software Developer** dedicated to building high-quali
       </p>
     </td>
     <td valign="middle" width="45%" align="center">
-      <video src="showcase-video.mp4" width="100%" autoplay loop muted></video>
+      <video src="showcase-video.mp4" width="100%" autoplay loop muted playsinline></video>
     </td>
   </tr>
 </table>
