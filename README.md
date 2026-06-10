@@ -1,4 +1,4 @@
-<h1 align="center">Dwiyansyah Oktavyudi 👋</h1>
+<h1 align="center">Dwiyansyah Oktavyudi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.gif" alt="Waving Hand" width="35" height="35" style="vertical-align: middle;" /></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38bdf8&center=true&vCenter=true&width=450&lines=Software+Engineer;Full-stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
@@ -88,7 +88,7 @@ Hello! I am a passionate **Software Developer** dedicated to building high-quali
 
 ---
 
-### 🤝 Let's Connect
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.gif" alt="Handshake" width="35" height="35" style="vertical-align: middle;" /> Let's Connect
 
 Let's collaborate on building the future! Feel free to reach out to me through:
 
@@ -97,8 +97,13 @@ Let's collaborate on building the future! Feel free to reach out to me through:
     <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=ea4335" alt="Email">
   </a>
   <a href="https://linkedin.com/in/dwiyansyah" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+</p>
+
+<p align="center">
+  <br/>
+  <i>"Simplicity is the soul of efficiency." — Austin Freeman</i>
 </p>
 
 <p align="center">
