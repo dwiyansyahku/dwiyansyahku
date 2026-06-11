@@ -36,40 +36,63 @@ Hello! I am a passionate **Software Developer** dedicated to building high-quali
 <img align="right" src="hiasan/showcase-sq.gif" alt="Showcase Animation" width="220" height="220">
 
 <p>
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
+  <!-- 💻 Programming Languages -->
   <img src="https://img.shields.io/badge/PHP-0f172a?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP">
+  <img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
+  <img src="https://img.shields.io/badge/Java-0f172a?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java">
+  <img src="https://img.shields.io/badge/SQL-0f172a?style=for-the-badge&logo=databricks&logoColor=FF3621" alt="SQL">
   <img src="https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3">
 </p>
 
 <p>
-  <!-- Frontend & Frameworks -->
-  <img src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-0f172a?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" alt="Next.js">
-  <img src="https://img.shields.io/badge/Vue.js-0f172a?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js">
-  <img src="https://img.shields.io/badge/TailwindCSS-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="TailwindCSS">
+  <!-- 🚀 Frameworks & Libraries -->
+  <img src="https://img.shields.io/badge/Laravel-0f172a?style=for-the-badge&logo=laravel&logoColor=FF2D20" alt="Laravel">
+  <img src="https://img.shields.io/badge/Bootstrap-0f172a?style=for-the-badge&logo=bootstrap&logoColor=7952B3" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/AJAX-0f172a?style=for-the-badge&logo=jquery&logoColor=0769AD" alt="AJAX">
 </p>
 
 <p>
-  <!-- Backend & Database -->
-  <img src="https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express-0f172a?style=for-the-badge&logo=express&logoColor=ffffff" alt="Express">
+  <!-- 🗄️ Database -->
   <img src="https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL">
-  <img src="https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/MongoDB-0f172a?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Firebase-0f172a?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase">
+  <img src="https://img.shields.io/badge/phpMyAdmin-0f172a?style=for-the-badge&logo=phpmyadmin&logoColor=F89820" alt="phpMyAdmin">
 </p>
 
 <p>
-  <!-- Tools & Systems -->
+  <!-- 📊 Data Analysis -->
+  <img src="https://img.shields.io/badge/Google_Colab-0f172a?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" alt="Google Colab">
+  <img src="https://img.shields.io/badge/Pandas-0f172a?style=for-the-badge&logo=pandas&logoColor=150458" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-0f172a?style=for-the-badge&logo=numpy&logoColor=013243" alt="NumPy">
+  <img src="https://img.shields.io/badge/IBM_SPSS-0f172a?style=for-the-badge&logo=ibm&logoColor=054ADA" alt="IBM SPSS">
+</p>
+
+<p>
+  <!-- ☁️ Cloud Computing (Basic) -->
+  <img src="https://img.shields.io/badge/AWS-0f172a?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS">
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0f172a?style=for-the-badge&logo=microsoftazure&logoColor=0078D4" alt="Microsoft Azure">
+  <img src="https://img.shields.io/badge/Google_Cloud-0f172a?style=for-the-badge&logo=googlecloud&logoColor=4285F4" alt="Google Cloud">
+</p>
+
+<p>
+  <!-- 🔧 Development Tools -->
   <img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F05032" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub">
   <img src="https://img.shields.io/badge/VS_Code-0f172a?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="VS Code">
-  <img src="https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker">
   <img src="https://img.shields.io/badge/Postman-0f172a?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman">
+  <img src="https://img.shields.io/badge/XAMPP-0f172a?style=for-the-badge&logo=xampp&logoColor=FB7A24" alt="XAMPP">
+  <img src="https://img.shields.io/badge/Laragon-0f172a?style=for-the-badge&logo=laragon&logoColor=0E83CD" alt="Laragon">
+  <img src="https://img.shields.io/badge/NetBeans-0f172a?style=for-the-badge&logo=apachenetbeanside&logoColor=1B6AC6" alt="NetBeans">
+  <img src="https://img.shields.io/badge/Notepad++-0f172a?style=for-the-badge&logo=notepadplusplus&logoColor=90E59A" alt="Notepad++">
+</p>
+
+<p>
+  <!-- 🎨 Design & Productivity -->
+  <img src="https://img.shields.io/badge/Figma-0f172a?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma">
+  <img src="https://img.shields.io/badge/Canva-0f172a?style=for-the-badge&logo=canva&logoColor=00C4CC" alt="Canva">
+  <img src="https://img.shields.io/badge/Microsoft_Excel-0f172a?style=for-the-badge&logo=microsoftexcel&logoColor=217346" alt="Microsoft Excel">
+  <img src="https://img.shields.io/badge/Microsoft_Word-0f172a?style=for-the-badge&logo=microsoftword&logoColor=2B579A" alt="Microsoft Word">
+  <img src="https://img.shields.io/badge/Microsoft_PowerPoint-0f172a?style=for-the-badge&logo=microsoftpowerpoint&logoColor=B7472A" alt="Microsoft PowerPoint">
 </p>
 
 <br clear="right">
