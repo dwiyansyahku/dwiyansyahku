@@ -2,7 +2,7 @@
   <img src="hiasan/shelf-anim.gif" width="130" height="130">
 </p>
 
-<h1 align="center">Dwiyansyah Oktavyudi <img src="waving-hand.png" alt="Waving Hand" width="35" height="35" /></h1>
+<h1 align="center"><img src="waving-hand.png" alt="Waving Hand" width="35" height="35" />Dwiyansyah Oktavyudi </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38bdf8&center=true&vCenter=true&width=450&lines=Software+Engineer;Full-stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
@@ -62,14 +62,14 @@ Hello! I am a passionate **Software Developer** dedicated to building high-quali
 <p>
   <!-- 📊 Data Analysis -->
   <img src="https://img.shields.io/badge/Google_Colab-0f172a?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" alt="Google Colab">
-  <img src="https://img.shields.io/badge/Pandas-0f172a?style=for-the-badge&logo=pandas&logoColor=150458" alt="Pandas">
-  <img src="https://img.shields.io/badge/NumPy-0f172a?style=for-the-badge&logo=numpy&logoColor=013243" alt="NumPy">
-  <img src="https://img.shields.io/badge/IBM_SPSS-0f172a?style=for-the-badge&logo=ibm&logoColor=054ADA" alt="IBM SPSS">
+  <img src="https://img.shields.io/badge/Pandas-0f172a?style=for-the-badge&logo=pandas&logoColor=E70488" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-0f172a?style=for-the-badge&logo=numpy&logoColor=4DABCF" alt="NumPy">
+  <img src="https://img.shields.io/badge/IBM_SPSS-0f172a?style=for-the-badge&logo=ibm&logoColor=ffffff" alt="IBM SPSS">
 </p>
 
 <p>
   <!-- ☁️ Cloud Computing (Basic) -->
-  <img src="https://img.shields.io/badge/AWS-0f172a?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS">
+  <img src="https://img.shields.io/badge/AWS-0f172a?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS">
   <img src="https://img.shields.io/badge/Microsoft_Azure-0f172a?style=for-the-badge&logo=microsoftazure&logoColor=0078D4" alt="Microsoft Azure">
   <img src="https://img.shields.io/badge/Google_Cloud-0f172a?style=for-the-badge&logo=googlecloud&logoColor=4285F4" alt="Google Cloud">
 </p>
@@ -90,9 +90,9 @@ Hello! I am a passionate **Software Developer** dedicated to building high-quali
   <!-- 🎨 Design & Productivity -->
   <img src="https://img.shields.io/badge/Figma-0f172a?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma">
   <img src="https://img.shields.io/badge/Canva-0f172a?style=for-the-badge&logo=canva&logoColor=00C4CC" alt="Canva">
-  <img src="https://img.shields.io/badge/Microsoft_Excel-0f172a?style=for-the-badge&logo=microsoftexcel&logoColor=217346" alt="Microsoft Excel">
-  <img src="https://img.shields.io/badge/Microsoft_Word-0f172a?style=for-the-badge&logo=microsoftword&logoColor=2B579A" alt="Microsoft Word">
-  <img src="https://img.shields.io/badge/Microsoft_PowerPoint-0f172a?style=for-the-badge&logo=microsoftpowerpoint&logoColor=B7472A" alt="Microsoft PowerPoint">
+  <img src="https://img.shields.io/badge/Microsoft_Excel-0f172a?style=for-the-badge&logo=microsoftexcel&logoColor=33CC33" alt="Microsoft Excel">
+  <img src="https://img.shields.io/badge/Microsoft_Word-0f172a?style=for-the-badge&logo=microsoftword&logoColor=4FC3F7" alt="Microsoft Word">
+  <img src="https://img.shields.io/badge/Microsoft_PowerPoint-0f172a?style=for-the-badge&logo=microsoftpowerpoint&logoColor=FF6B35" alt="Microsoft PowerPoint">
 </p>
 
 <br clear="right">
@@ -141,7 +141,7 @@ Let's collaborate on building the future! Feel free to reach out to me through:
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://linkedin.com/in/dwiyansyah" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn">
   </a>
   <!-- Catatan: Ganti url open.spotify.com di bawah ini dengan link lagu/playlist favorit Anda! -->
   <a href="https://open.spotify.com/user/31mu6h7cfcvm2ucjgxpgafzlhtqq" target="_blank">
