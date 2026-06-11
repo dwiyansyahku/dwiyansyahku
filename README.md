@@ -51,6 +51,7 @@ Hello! I am a passionate **Software Developer** dedicated to building high-quali
   <img src="https://img.shields.io/badge/Laravel-0f172a?style=for-the-badge&logo=laravel&logoColor=FF2D20" alt="Laravel">
   <img src="https://img.shields.io/badge/Bootstrap-0f172a?style=for-the-badge&logo=bootstrap&logoColor=7952B3" alt="Bootstrap">
   <img src="https://img.shields.io/badge/AJAX-0f172a?style=for-the-badge&logo=jquery&logoColor=0769AD" alt="AJAX">
+  <img src="https://img.shields.io/badge/Eloquent_ORM-0f172a?style=for-the-badge&logo=laravel&logoColor=FF2D20" alt="Eloquent ORM">
 </p>
 
 <p>
@@ -62,6 +63,7 @@ Hello! I am a passionate **Software Developer** dedicated to building high-quali
 <p>
   <!-- 📊 Data Analysis -->
   <img src="https://img.shields.io/badge/Google_Colab-0f172a?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" alt="Google Colab">
+  <img src="https://img.shields.io/badge/Jupyter_Notebook-0f172a?style=for-the-badge&logo=jupyter&logoColor=F37626" alt="Jupyter Notebook">
   <img src="https://img.shields.io/badge/Pandas-0f172a?style=for-the-badge&logo=pandas&logoColor=E70488" alt="Pandas">
   <img src="https://img.shields.io/badge/NumPy-0f172a?style=for-the-badge&logo=numpy&logoColor=4DABCF" alt="NumPy">
   <img src="https://img.shields.io/badge/IBM_SPSS-0f172a?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI+PHBhdGggZD0iTTE2IDJDOSAyIDMgOCAzIDE2czYgMTQgMTMgMTQgMTMtNiAxMy0xNFMyMyAyIDE2IDJ6bTAgMjZDMTAgMjggNSAyMiA1IDE2UzEwIDQgMTYgNHMxMSA2IDExIDEyLTUgMTItMTEgMTJ6bS0yLThjMCAyLTEgMy0yIDNzLTItMS0yLTNWMTBoMnY4YzAgMSAxIDEgMSAxczEgMCAxLTFWMTBoMnY4em00IDBjMCAyLTEgMy0yIDNzLTItMS0yLTNWMTBoMnY4YzAgMSAxIDEgMSAxczEgMCAxLTFWMTBoMnY4eiIgZmlsbD0id2hpdGUiLz48L3N2Zz4=&logoColor=white" alt="IBM SPSS">
