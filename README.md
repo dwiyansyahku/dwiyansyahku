@@ -64,13 +64,13 @@ Hello! I am a passionate **Software Developer** dedicated to building high-quali
   <img src="https://img.shields.io/badge/Google_Colab-0f172a?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" alt="Google Colab">
   <img src="https://img.shields.io/badge/Pandas-0f172a?style=for-the-badge&logo=pandas&logoColor=E70488" alt="Pandas">
   <img src="https://img.shields.io/badge/NumPy-0f172a?style=for-the-badge&logo=numpy&logoColor=4DABCF" alt="NumPy">
-  <img src="https://img.shields.io/badge/IBM_SPSS-0f172a?style=for-the-badge&logo=ibm&logoColor=ffffff" alt="IBM SPSS">
+  <img src="https://img.shields.io/badge/IBM_SPSS-0f172a?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI+PHBhdGggZD0iTTE2IDJDOSAyIDMgOCAzIDE2czYgMTQgMTMgMTQgMTMtNiAxMy0xNFMyMyAyIDE2IDJ6bTAgMjZDMTAgMjggNSAyMiA1IDE2UzEwIDQgMTYgNHMxMSA2IDExIDEyLTUgMTItMTEgMTJ6bS0yLThjMCAyLTEgMy0yIDNzLTItMS0yLTNWMTBoMnY4YzAgMSAxIDEgMSAxczEgMCAxLTFWMTBoMnY4em00IDBjMCAyLTEgMy0yIDNzLTItMS0yLTNWMTBoMnY4YzAgMSAxIDEgMSAxczEgMCAxLTFWMTBoMnY4eiIgZmlsbD0id2hpdGUiLz48L3N2Zz4=&logoColor=white" alt="IBM SPSS">
 </p>
 
 <p>
   <!-- ☁️ Cloud Computing (Basic) -->
-  <img src="https://img.shields.io/badge/AWS-0f172a?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS">
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0f172a?style=for-the-badge&logo=microsoftazure&logoColor=0078D4" alt="Microsoft Azure">
+  <img src="https://img.shields.io/badge/AWS-0f172a?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI+PHBhdGggZD0iTTkgNDMuN2MxMS41IDggMjcuMSA5LjUgNDAgMy4yQzM5IDQ2LjUgMTYgNDQuMiA5IDQzLjd6bTQ0LjUtNy41Yy43LTEgMS4xLTIuMiAxLjEtMy40IDAtMS43LS42LTMuMy0xLjctNC40LTIuNi0zLTcuNC0yLTEwLjggMS4yIDAgMC0zLjgtMy4zLTkuMy0xLjMtNS41IDItNi42IDguNS00LjQgMTIuNSAyLjIgNCA3IDYuMiAxMiA1LjIgMy44LS43IDctMyA5LjEtNS44IDAtLjYtLjMtMS4yLS44LTEuNmwtMy41LTIuOGMtLjUuNy0xIDEuMi0xLjggMS41LTEuMi41LTIuNi41LTMuOC4xLTIuNS0uOS00LTMuNS0zLjUtNiAuNS0yLjUgMi43LTQuMSA1LjMtNC4xIDIgMCAzLjcgMSA1IDIuNGwzLjgtMyAuMS4xeiIgZmlsbD0id2hpdGUiLz48L3N2Zz4=&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0f172a?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxOCAxOCI+PHBhdGggZD0iTTguMzM4LjAxNiA0LjE3NiAxMC41NjFsNi4wMTggNy40MjNIMS4xNjlMMCAxOS45ODRoMTMuNjA3bDIuMjI0LTIuNzU4TDguMzM4LjAxNnptNy44NSA1Ljc4NEw5LjkzIDE3LjIyNmg0LjYwM2wyLjM4OC02LjkzOC0uNzMzLTQuNDg4eiIgZmlsbD0id2hpdGUiLz48L3N2Zz4=&logoColor=white" alt="Microsoft Azure">
   <img src="https://img.shields.io/badge/Google_Cloud-0f172a?style=for-the-badge&logo=googlecloud&logoColor=4285F4" alt="Google Cloud">
 </p>
 
@@ -78,7 +78,7 @@ Hello! I am a passionate **Software Developer** dedicated to building high-quali
   <!-- 🔧 Development Tools -->
   <img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F05032" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub">
-  <img src="https://img.shields.io/badge/VS_Code-0f172a?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="VS Code">
+  <img src="https://img.shields.io/badge/VS_Code-0f172a?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cGF0aCBkPSJNNzQuMTM3LjEyMiA0MS4xMjcgMzMuMTMyIDkuNDAyIDguMDgybC0zLjQ3IDEuOTItNC4zNyAyMS45NjZMMjQuNzI3IDUwIDEuNTYyIDY3LjM1MmwtNC42NyAyMC4zNjcgMy44ODMgMi4yOEw4LjAyIDkyLjMzNWwzMi4yMy0yNS42NTYgMzMuMDIzIDMzLjE4NSAxOS44NDItOS4xNTgtLjE2Mi04MC41ODhMMTAwIDkuMTU3eiIgZmlsbD0id2hpdGUiLz48L3N2Zz4=&logoColor=white" alt="VS Code">
   <img src="https://img.shields.io/badge/Postman-0f172a?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman">
   <img src="https://img.shields.io/badge/XAMPP-0f172a?style=for-the-badge&logo=xampp&logoColor=FB7A24" alt="XAMPP">
   <img src="https://img.shields.io/badge/Laragon-0f172a?style=for-the-badge&logo=laragon&logoColor=0E83CD" alt="Laragon">
@@ -89,10 +89,10 @@ Hello! I am a passionate **Software Developer** dedicated to building high-quali
 <p>
   <!-- 🎨 Design & Productivity -->
   <img src="https://img.shields.io/badge/Figma-0f172a?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma">
-  <img src="https://img.shields.io/badge/Canva-0f172a?style=for-the-badge&logo=canva&logoColor=00C4CC" alt="Canva">
-  <img src="https://img.shields.io/badge/Microsoft_Excel-0f172a?style=for-the-badge&logo=microsoftexcel&logoColor=33CC33" alt="Microsoft Excel">
-  <img src="https://img.shields.io/badge/Microsoft_Word-0f172a?style=for-the-badge&logo=microsoftword&logoColor=4FC3F7" alt="Microsoft Word">
-  <img src="https://img.shields.io/badge/Microsoft_PowerPoint-0f172a?style=for-the-badge&logo=microsoftpowerpoint&logoColor=FF6B35" alt="Microsoft PowerPoint">
+  <img src="https://img.shields.io/badge/Canva-0f172a?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OCA0OCI+PGNpcmNsZSBjeD0iMjQiIGN5PSIyNCIgcj0iMjIiIGZpbGw9Im5vbmUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMyIvPjxlbGxpcHNlIGN4PSIyMCIgY3k9IjE4IiByeD0iNiIgcnk9IjkiIGZpbGw9IndoaXRlIi8+PGVsbGlwc2UgY3g9IjMwIiBjeT0iMjgiIHJ4PSI2IiByeT0iOSIgZmlsbD0id2hpdGUiIG9wYWNpdHk9IjAuNyIvPjwvc3ZnPg==&logoColor=white" alt="Canva">
+  <img src="https://img.shields.io/badge/Microsoft_Excel-0f172a?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMyAyMyI+PHBhdGggZD0iTTAgMGgyM3YyM0gweiIgZmlsbD0ibm9uZSIvPjxwYXRoIGQ9Ik0xNS41IDEuNXYyMGgtMTN2LTIwaDE1bS0xMi41IDBoMTB2MThoLTEwdi0xOHpNOSA3bC0yIDMgMiAzSDdhMS4wMDEgMS4wMDEgMCAwIDEgMC0ybDEuNS0yTDcgOGExIDEgMCAwIDEgMC0yaDB6bTQgMEwxMSAxMGwxLjUgMEwxMyA4aDJsLTIgM2ggMmExIDEgMCAwIDEgMCAyaC0yaC0yaC0ybDItM0wxMSAxMCIgZmlsbD0id2hpdGUiLz48L3N2Zz4=&logoColor=white" alt="Microsoft Excel">
+  <img src="https://img.shields.io/badge/Microsoft_Word-0f172a?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMyAyMyI+PHBhdGggZD0iTTAgMGgyM3YyM0gweiIgZmlsbD0ibm9uZSIvPjxwYXRoIGQ9Ik0xNS41IDEuNXYyMGgtMTN2LTIwaDE1bS0xMi41IDBoMTB2MThoLTEwdi0xOHpNNyA3bDEuNSA2TDEwIDhsMS41IDVMMTMgN2gydjEwaC0ybC0xLjUtNUwxMCAxN2wtMS41LTV2NUg3VjciIGZpbGw9IndoaXRlIi8+PC9zdmc+&logoColor=white" alt="Microsoft Word">
+  <img src="https://img.shields.io/badge/Microsoft_PowerPoint-0f172a?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMyAyMyI+PHBhdGggZD0iTTAgMGgyM3YyM0gweiIgZmlsbD0ibm9uZSIvPjxwYXRoIGQ9Ik0xNS41IDEuNXYyMGgtMTN2LTIwaDE1bS0xMi41IDBoMTB2MThoLTEwdi0xOHpNNyA3aDVjMiAwIDMgMS4yIDMgM3MtMSAzLTMgM0g5djRIN1Y3em0yIDJWMTFoM2MuNiAwIDEtLjUgMS0xcy0uNC0xLTEtMUg5eiIgZmlsbD0id2hpdGUiLz48L3N2Zz4=&logoColor=white" alt="Microsoft PowerPoint">
 </p>
 
 <br clear="right">
@@ -141,7 +141,7 @@ Let's collaborate on building the future! Feel free to reach out to me through:
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://linkedin.com/in/dwiyansyah" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMCAxLTIuMDYzLTIuMDY1IDIuMDY0IDIuMDY0IDAgMSAxIDIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTRWOWgzLjU2NXYxMS40NTJ6TTIyLjIyNSAwaC0yMUM1LjE1MyAwIDAgNS4xNzIgMCAxMS45MzlWMTMuMDUyQzAgMTkuODIgNS4xNTMgMjUgMTIuMjI1IDI1SDE3di0xMmMtLjQ5IDAtMS4yNTUtLjA1NS0xLjI1NS0xLjc3IDAtMS41MzIuNTU3LTIuNTQ1IDEuNzI3LTIuNTQ1LjU4NSAwIDEuMDU4LjE2OCAxLjM0NC40MzZWMy4yMzZMOC42OTcgM3Y5LjM5M2gyLjI0MXYtNi4yN0wyMS45NTIgMy4yMzZWMjFoMi4yNDFIMjRWMGgtMS43NzV6IiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg==&logoColor=white" alt="LinkedIn">
   </a>
   <!-- Catatan: Ganti url open.spotify.com di bawah ini dengan link lagu/playlist favorit Anda! -->
   <a href="https://open.spotify.com/user/31mu6h7cfcvm2ucjgxpgafzlhtqq" target="_blank">
