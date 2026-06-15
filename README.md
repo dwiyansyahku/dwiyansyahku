@@ -22,12 +22,14 @@
 
 ### 🚀 About Me
 
-Hello! I am a passionate **Software Developer** dedicated to building high-quality, efficient, and user-centric web applications. I love exploring new technologies and crafting elegant solutions to complex problems.
+Hello! I'm **Dwiyansyah Oktavyudi**, a **Junior Web Developer** with a strong interest in **Data Analytics**, **Artificial Intelligence**, and modern web technologies. I enjoy building web applications, analyzing data, and continuously learning new technologies to solve real-world problems.
 
-- 🔭 **Current Focus**: Developing modern web projects & sharpening software engineering principles.
-- 🌱 **Currently Learning**: Advanced backend architectures, system design, and web performance optimization.
-- 👯 **Collaboration**: Open to contributing to interesting open-source and web development projects.
-- ⚡ **Philosophy**: I believe clean code is like art – it should be simple, readable, and highly efficient.
+* 🔭 **Current Focus**: Building web applications and expanding my skills in data analytics and AI.
+* 🌱 **Currently Learning**: Backend development, data analysis, machine learning, and cloud technologies.
+* 👯 **Collaboration**: Open to collaborating on web development, data analytics, and open-source projects.
+* 💡 **Interests**: Web Development, Data Analytics, Artificial Intelligence, and Technology Innovation.
+* ⚡ **Philosophy**: Keep learning, keep building, and turn ideas into impactful digital solutions.
+
 
 ---
 
