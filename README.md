@@ -5,7 +5,7 @@
 <h1 align="center"><img src="waving-hand.png" alt="Waving Hand" width="35" height="35" />Hi There, I'm Dwiyansyah Oktavyudi </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38bdf8&center=true&vCenter=true&width=450&lines=Software+Engineer;Full-stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38bdf8&center=true&vCenter=true&width=450&lines=Junior+Web+Developer;Data+Analyst;Tech+Enthusiast;AI+Engineer" alt="Typing SVG" />
 </p>
 
 <p align="center">
