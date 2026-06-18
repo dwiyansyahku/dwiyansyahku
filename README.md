@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071e3d,45:1d4ed8,100:38bdf8&height=200&section=header" width="100%" />
-
 <p align="center">
   <img src="hiasan/shelf-anim.gif" width="130" height="130">
 </p>
