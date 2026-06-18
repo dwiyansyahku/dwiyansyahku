@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:38bdf8&height=200&section=header&text=Dwiyansyah%20Oktavyudi&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Junior%20Web%20Developer%20%7C%20Data%20%26%20AI%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071e3d,45:1d4ed8,100:38bdf8&height=200&section=header" width="100%" />
 
 <p align="center">
   <img src="hiasan/shelf-anim.gif" width="130" height="130">
@@ -167,4 +167,4 @@ Let's collaborate on building the future! Feel free to reach out to me through:
   <sub><i>Crafted with ❤️ by Dwiyansyah Oktavyudi.</i></sub>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:1e3a5f,100:0f172a&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,55:1d4ed8,100:071e3d&height=120&section=footer" width="100%" />
