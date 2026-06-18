@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071e3d,45:1d4ed8,100:38bdf8&height=300&section=header&text=Hi%20There%2C%20I%27m%20Dwiyansyah%20Oktavyudi&fontSize=28&fontColor=ffffff&fontAlignY=62" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071e3d,45:1d4ed8,100:38bdf8&height=300&section=header&text=%F0%9F%91%8B%20Hi%20There%2C%20I%27m%20Dwiyansyah%20Oktavyudi&fontSize=28&fontColor=ffffff&fontAlignY=62" width="100%" />
 
 <p align="center">
   <img src="hiasan/shelf-anim.gif" width="130" height="130">
