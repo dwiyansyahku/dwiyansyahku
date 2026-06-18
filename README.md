@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Deployed%20on-Vercel-0070f3?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38bdf8&center=true&vCenter=true&width=450&lines=Junior+Web+Developer;Data+Analyst;Tech+Enthusiast;AI+Engineer" alt="Typing SVG" />
 </p>
 
