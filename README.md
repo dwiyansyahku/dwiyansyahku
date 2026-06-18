@@ -1,8 +1,11 @@
 <p align="center">
   <img src="hiasan/shelf-anim.gif" width="130" height="130">
 </p>
-
 <h1 align="center">Hi There <img src="waving-hand.png" alt="Waving Hand" width="35" height="35" />, I'm Dwiyansyah Oktavyudi </h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Deployed%20on-Vercel-0070f3?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38bdf8&center=true&vCenter=true&width=450&lines=Junior+Web+Developer;Data+Analyst;Tech+Enthusiast;AI+Engineer" alt="Typing SVG" />
