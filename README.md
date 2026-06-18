@@ -1,8 +1,10 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:38bdf8&height=200&section=header&text=Dwiyansyah%20Oktavyudi&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Junior%20Web%20Developer%20%7C%20Data%20%26%20AI%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+
 <p align="center">
   <img src="hiasan/shelf-anim.gif" width="130" height="130">
 </p>
 
-<h1 align="center"><img src="waving-hand.png" alt="Waving Hand" width="35" height="35" />Dwiyansyah Oktavyudi </h1>
+<h1 align="center"><img src="waving-hand.png" alt="Waving Hand" width="35" height="35" /> Hi There, I'm Dwiyansyah Oktavyudi </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38bdf8&center=true&vCenter=true&width=450&lines=Software+Engineer;Full-stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
@@ -22,12 +24,13 @@
 
 ### 🚀 About Me
 
-Hello! I am a passionate **Software Developer** dedicated to building high-quality, efficient, and user-centric web applications. I love exploring new technologies and crafting elegant solutions to complex problems.
+Hello! I'm **Dwiyansyah Oktavyudi**, a **Junior Web Developer** with a strong interest in **Data Analytics**, **Artificial Intelligence**, and modern web technologies. I enjoy building web applications, analyzing data, and continuously learning new technologies to solve real-world problems.
 
-- 🔭 **Current Focus**: Developing modern web projects & sharpening software engineering principles.
-- 🌱 **Currently Learning**: Advanced backend architectures, system design, and web performance optimization.
-- 👯 **Collaboration**: Open to contributing to interesting open-source and web development projects.
-- ⚡ **Philosophy**: I believe clean code is like art – it should be simple, readable, and highly efficient.
+* 🔭 **Current Focus**: Building web applications and expanding my skills in data analytics and AI.
+* 🌱 **Currently Learning**: Backend development, data analysis, machine learning, and cloud technologies.
+* 👯 **Collaboration**: Open to collaborating on web development, data analytics, and open-source projects.
+* 💡 **Interests**: Web Development, Data Analytics, Artificial Intelligence, and Technology Innovation.
+* ⚡ **Philosophy**: Keep learning, keep building, and turn ideas into impactful digital solutions.
 
 ---
 
@@ -159,3 +162,5 @@ Let's collaborate on building the future! Feel free to reach out to me through:
 <p align="center">
   <sub><i>Crafted with ❤️ by Dwiyansyah Oktavyudi.</i></sub>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:1e3a5f,100:0f172a&height=120&section=footer" width="100%" />
